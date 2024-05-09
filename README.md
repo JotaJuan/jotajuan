@@ -10,9 +10,8 @@
 ### Skills:
 > REACT/JavaScript/JAVA/C/MySQL/PowerShell/Bash/Kali Linux/Wireshark/VSCode.
 
-<img src="https://github.githubassets.com/images/mona-loading-dark.gif" alt="banner" width="100" align="right">
-
 ### Contacto:
 - [LinkedIn](https://www.linkedin.com/in/juan-m-navarrete/)
+<img src="https://github.githubassets.com/images/mona-loading-dark.gif" alt="banner" width="100" align="right">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&height=100&color=000&fontAlign=78&fontSize=30&animation=fadeIn&section=footer&fontColor=fff&textBg=false&fontAlignY=21)
