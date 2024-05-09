@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=000&text=Hola!%20🤙🏻%20Soy%20JuanMa&fontAlign=78&fontSize=30&animation=fadeIn&section=header&fontColor=fff&textBg=false&fontAlignY=21)
 <div style="text-align: right">
-    <img src="https://i.pinimg.com/originals/e0/db/86/e0db8690895407d039b94f75b6244035.gif" alt="banner" width="200">
+    <img src="https://github.githubassets.com/images/mona-loading-dark.gif" alt="banner" width="150">
 </div>
+
 ## Sobre mi...
 
 - 🔭 Actualmente trabajando como soporte técnico en una empresa, particularmente doy soporte a la suite *Microsoft 365*.
