@@ -5,10 +5,10 @@
 - 🔭 Actualmente trabajando como soporte técnico en una empresa, particularmente doy soporte a la suite *Microsoft 365*.
 - 🌱 En la actualidad estoy haciendo un bootcamp de **DevOps** con la plataforma educativa **Educación IT**.
 - 🎓 Mi formación académica está ligada a la **programación** y al **desarrollo de software**.
-- 🤓 Me interesa aprender y seguir formándome en **devops**, **sysadmin**, **ciberseguridad**, **networking**, **cloud**, **programación**.
+- 🤓 Me interesa aprender y seguir formándome en **devops**, **sysadmin**, **cloud**, **ciberseguridad**, **networking**, **programación**.
 
 ### Skills:
-> REACT/JavaScript/JAVA/C/MySQL/PowerShell/Bash/Kali Linux/Wireshark/VSCode.
+> JavaScript/Java/React/MySQL/PowerShell/Bash/Kali Linux/VSCode.
 
 ### Contacto:
 - [LinkedIn](https://www.linkedin.com/in/juan-m-navarrete/)
