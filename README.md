@@ -3,9 +3,9 @@
 ## Sobre mi...
 
 - 🔭 Actualmente trabajando como soporte técnico en una empresa, particularmente doy soporte a la suite *Microsoft 365*.
-- 🌱 En la actualidad estoy haciendo un bootcamp de **DevOps** con la plataforma educativa **Educación IT**.
+- 🌱 En la actualidad estoy cursando **Microsoft Azure Administrador** con la plataforma educativa **Educación IT**.
 - 🎓 Mi formación académica está ligada a la **programación** y al **desarrollo de software**.
-- 🤓 Me interesa aprender y seguir formándome en **devops**, **sysadmin**, **cloud**, **ciberseguridad**, **networking**, **programación**.
+- 🤓 Me interesa aprender y seguir formándome en **sysadmin**, **cloud**, **ciberseguridad**, **networking**, **programación**.
 
 ### Skills:
 > JavaScript/Java/React/MySQL/PowerShell/Bash/Kali Linux/VSCode.
